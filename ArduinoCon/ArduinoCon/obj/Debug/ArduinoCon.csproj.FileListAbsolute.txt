@@ -1,0 +1,10 @@
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\bin\Debug\ArduinoCon.exe.config
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\bin\Debug\ArduinoCon.exe
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\bin\Debug\ArduinoCon.pdb
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.csprojAssemblyReference.cache
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.Form1.resources
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.Properties.Resources.resources
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.csproj.GenerateResource.cache
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.csproj.CoreCompileInputs.cache
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.exe
+C:\Users\samjo\source\repos\ArduinoCon\ArduinoCon\obj\Debug\ArduinoCon.pdb
